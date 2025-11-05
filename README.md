@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @angelina-kenza
+- 👋 Hi, I’m Angie or @angelina-kenza
 - 👀 I’m interested in new tech, coding and product development
 - 🌱 I’m currently learning how to develop more skills in tech
 - 💞️ I’m looking to collaborate on ideas
