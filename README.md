@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Angie or @angelina-kenza
-- 👀 I’m interested in new tech, coding and product development
-- 🌱 I’m currently learning how to develop more skills in tech
-- 💞️ I’m looking to collaborate on ideas
+👋 Hi, I'm Angie
+🚀 I build digital products across payments, crypto & fintech
+🌱 Currently sharpening my technical toolkit and shipping AI experiments
+💡 Always happy to collaborate on ideas that solve real problems
 
 <!---
 angelina-kenza/angelina-kenza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
