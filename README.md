@@ -1,7 +1,6 @@
-👋 Hi, I'm Angie
+👋 Hi, I'm Angelina
 🚀 I build digital products across payments, crypto & fintech
-🌱 Currently sharpening my technical toolkit and shipping AI experiments
-💡 Always happy to collaborate on ideas that solve real problems
+🌱 Creativity never stops!
 
 <!---
 angelina-kenza/angelina-kenza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
